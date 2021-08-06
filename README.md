@@ -1,3 +1,7 @@
+This was a project created as part of the Code Institute's Full Stack Software Development Diploma as a way to practice vanilla HTML and CSS. Original README file purposefully kept as template imported from Code Institute.
+
+The purpose of the site is for a running club in Dublin to advertise the different runs available, allow people to view a gallery of photos, and sign up as a member of the club.
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Allana Bailey,
